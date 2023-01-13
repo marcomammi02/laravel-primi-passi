@@ -16,6 +16,6 @@ $text = 'This is a paragraph!';
 <body>
     <h1>{{ $title }}</h1>
     <p>{{ $text }}</p>
-    <a href="http://127.0.0.1:8000/link-di-prova">Link di prova</a>
+    <a href="/link-di-prova">Link di prova</a>
 </body>
 </html>
